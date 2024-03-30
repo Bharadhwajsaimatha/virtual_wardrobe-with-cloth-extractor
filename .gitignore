@@ -1,0 +1,15 @@
+#Demo video
+CV_MiniProject_Demo-2.mp4
+
+#Byte compiled
+__pycache__/
+
+#.idea
+.idea/
+
+#build files
+src/build/
+src/dist/
+
+#.exe files
+src/dist/*.exe
