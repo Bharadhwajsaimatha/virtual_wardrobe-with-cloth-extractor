@@ -1,6 +1,0 @@
-cvzone==1.5.6
-matplotlib==3.7.1
-numpy==1.22.2
-opencv_contrib_python==4.8.0.74
-opencv_python==4.7.0.72
-tkinter==8.6
